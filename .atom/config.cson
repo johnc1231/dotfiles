@@ -1,0 +1,15 @@
+"*":
+  "autocomplete-plus":
+    confirmCompletion: "tab"
+  "autocomplete-python":
+    useKite: false
+  core:
+    telemetryConsent: "limited"
+  editor:
+    showIndentGuide: true
+    softWrap: true
+    softWrapHangingIndent: 1
+  "exception-reporting":
+    userId: "05d87d4e-1089-4090-95b8-daf9fbed73ee"
+  "linter-ui-default":
+    panelHeight: 69
